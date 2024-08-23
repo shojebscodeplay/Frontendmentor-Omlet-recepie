@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./preview.jpg)
+![image](https://github.com/user-attachments/assets/31d9e6b4-5dd7-4701-8f6d-7c94496ea02b)
 
 ## Welcome! 👋
 
